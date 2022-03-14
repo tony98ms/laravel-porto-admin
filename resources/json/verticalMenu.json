@@ -1,0 +1,11 @@
+{
+    "menu": [
+        {
+            "url": "/",
+            "name": "Inicio",
+            "icon": "bx bx-bar-chart",
+            "can": "",
+            "submenu": []
+        }
+    ]
+}

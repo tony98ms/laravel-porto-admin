@@ -1,0 +1,59 @@
+// Fonts
+@import url('https://fonts.googleapis.com/css?family=Nunito');
+
+// Variables
+@import 'variables';
+
+// Bootstrap
+@import '~bootstrap/scss/bootstrap';
+// values are default one from  template
+.jv-dark {
+    background: #090300;
+    white-space: nowrap;
+    color: #fff;
+    font-size: 14px;
+    font-family: Consolas, Menlo, Courier, monospace;
+
+    .jv-ellipsis {
+      color: #999;
+      background-color: #eee;
+      display: inline-block;
+      line-height: 0.9;
+      font-size: 0.9em;
+      padding: 0px 4px 2px 4px;
+      border-radius: 3px;
+      vertical-align: 2px;
+      cursor: pointer;
+      user-select: none;
+    }
+    .jv-button { color: #49b3ff }
+    .jv-key { color: #24e04d }
+    .jv-item {
+      &.jv-array { color: #fcfafa }
+      &.jv-boolean { color: #fc1e70 }
+      &.jv-function { color: #067bca }
+      &.jv-number { color: #fc1e70 }
+      &.jv-number-float { color: #fc1e70 }
+      &.jv-number-integer { color: #fc1e70 }
+      &.jv-object { color: #ffffff }
+      &.jv-undefined { color: #c172da }
+      &.jv-string {
+        color: #fded02;
+        word-break: break-word;
+        white-space: normal;
+      }
+    }
+    .jv-code {
+      .jv-toggle {
+        &:before {
+          padding: 0px 2px;
+          border-radius: 2px;
+        }
+        &:hover {
+          &:before {
+            background: #eee;
+          }
+        }
+      }
+    }
+  }

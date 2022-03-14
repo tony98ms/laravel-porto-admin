@@ -1,0 +1,15 @@
+{
+    "/js/app.js": "/js/app.js",
+    "/css/app.css": "/css/app.css",
+    "/vendor/animate/animate.compat.css": "/vendor/animate/animate.compat.css",
+    "/css/theme.css": "/css/theme.css",
+    "/css/skins/default.css": "/css/skins/default.css",
+    "/css/custom.css": "/css/custom.css",
+    "/vendor/font-awesome/attribution.js": "/vendor/font-awesome/attribution.js",
+    "/vendor/font-awesome/LICENSE.txt": "/vendor/font-awesome/LICENSE.txt",
+    "/vendor/font-awesome/package.json": "/vendor/font-awesome/package.json",
+    "/vendor/magnific-popup/magnific-popup.css": "/vendor/magnific-popup/magnific-popup.css",
+    "/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.css": "/vendor/bootstrap-datepicker/css/bootstrap-datepicker3.css",
+    "/js/vendor.min.js": "/js/vendor.min.js",
+    "/js/theme.min.js": "/js/theme.min.js"
+}
